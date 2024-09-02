@@ -5,6 +5,7 @@
 <p align="left">Estudante do PROPROFISÃO no PROA </></p>
 
 ###
+[![](https://visitcount.itsvg.in/api?id=adriellemerces&label=Profile%20Views&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
