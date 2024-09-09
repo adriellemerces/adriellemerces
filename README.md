@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-<No momento estou aperfeiçoando meus conhecimentos criando novos projetos e desenvolvendo conhecimento em novas ferramentas da programação ></>
+No momento estou aperfeiçoando meus conhecimentos criando novos projetos e desenvolvendo conhecimento em novas ferramentas da programação
 
 
 ## 🌐 Rede social:
