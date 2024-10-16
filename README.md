@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de Analise e Desenvolvimento de Sistemas na Uninove</></p>
+<p align="center">"Desenvolvedora | Estudante de Análise e Desenvolvimento de Sistemas na Uninove | Explorando o mundo da programação no Instituto PROA 🚀</></p>
 
 
 ###
