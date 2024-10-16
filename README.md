@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Estudante do PROPROFISÃO no PROA </></p>
+<p align="left">Estudante de Analise e Desenvolvimento de Sistemas na Uninove</></p>
+
 
 ###
 
